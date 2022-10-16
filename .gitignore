@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Customized Here
+# Visual Studio Code
+.vscode/
+
+# SQLite Files
+*.db
